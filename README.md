@@ -1,2 +1,3 @@
 - the below model detects default payment next month :: by classifing user data used varoius methods.
 - after we provide the model will be extracted as rdf file then deploy it as saas serive using herouku.
+- the ci/cd pipeline will be provided as soon as possible
